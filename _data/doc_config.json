@@ -1,6 +1,8 @@
 {
   "name": "corePKCS11",
-  "releases": [],
+  "releases": [
+    "$VERSION_NUMBER"
+  ],
   "branches": [
     "main"
   ]
